@@ -1,0 +1,8 @@
+[Added Associations]
+text/plain=nvim-6.desktop;nvim-5.desktop;nvim-4.desktop;nvim-3.desktop;nvim-2.desktop;
+video/mp4=vlc-2.desktop;
+
+[Default Applications]
+text/plain=nvim-6.desktop;
+video/mp4=vlc-2.desktop;
+x-scheme-handler/discord=vesktop.desktop
